@@ -11,7 +11,7 @@ nvm install
 npm install
 ```
 
-Budget about an hour to do the exercise. You can submit by either sending us a zipped copy of the project or just posting it on GitHub and giving the link. The following are a couple of *optional* infrastructure tasks if you breeze through and finish the breakfix in way under an hour. Don't feel pressured to do them and definitely don't do more than one!
+Budget about an hour to do the exercise. You can submit by either sending us a zipped copy of the project or uploading it on GitHub and giving the link. The following are a couple of *optional* infrastructure tasks if you breeze through and finish the breakfix in way under an hour. Don't feel pressured to do them and definitely don't do more than one!
 1. Deploy the project to Heroku. Send us a link to the deployed app with your submission.
 2. Dockerize the project for local development and include a command for us to run to get the project up and running.
 
